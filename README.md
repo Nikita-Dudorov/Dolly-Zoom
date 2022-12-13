@@ -17,5 +17,5 @@
 https://drive.google.com/drive/folders/10SjapknaqZaQlMDAtg0Oj9f_heNbjQ5R
 
 *** AFTER THE SET UP ***
-
-- Run all cells, the video will be created in the same location of the notebook file.
+- using function 'adjust_base_object_position' select the rectangle in which the object of interest is placed
+- run remaining cells, the video will be created in the same location of the notebook file.
