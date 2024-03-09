@@ -1,8 +1,8 @@
 data/
 videos/
 video_frames/
-.ipynb_checkpoints/
 illustrations/
+.ipynb_checkpoints/
 *.avi
 *.pdf
 
